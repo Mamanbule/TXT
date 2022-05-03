@@ -1,0 +1,6 @@
+(name)Koivalchuk Dima 
+(age) 31
+(favFilm) x-files
+(favFood) all food
+(favWeather) summer
+(favCountry) Spain
